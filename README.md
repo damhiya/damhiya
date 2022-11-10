@@ -3,7 +3,8 @@
 I'm mostly interested in FP & proof language
 - Haskell
 - Agda
-- Coq 
+- Coq
+- Nix
 
 [Blog](https://damhiya.github.io/)
 
