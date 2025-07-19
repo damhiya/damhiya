@@ -1,7 +1,7 @@
-## Hi there 👋
+I'm broadly interested in programming language theories, especially:
+- Functional programming
+- PL semantics
+- Type theory & Logics
+- Proof assistant & Formal verification
 
-I'm mostly interested in FP & proof language
-- Haskell
-- Agda
-- Coq
-- Nix
+See my [curriculum vitae](cv.pdf)
